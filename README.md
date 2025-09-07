@@ -12,7 +12,7 @@ This project is an end-to-end automation framework for testing role-based access
 
 ### 👤 Member User Tests
 - ✅ Member user can access basic Jira features
-  ✅ Member user can see the "Add People" option
+- ✅ Member user can see the "Add People" option
 - ❌ Member user cannot invite new members
 
 ## 🏗️ Architecture
@@ -40,7 +40,7 @@ The framework follows a component-based architecture where UI elements and their
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/dangi13/jira-role-based-automation.git
 cd jira-role-based-automation
 ```
 
@@ -52,6 +52,22 @@ npm install
 3. Install Playwright browsers:
 ```bash
 npx playwright install
+```
+
+4. Create environment file (MANDATORY):
+   Create a `.env` file in the root directory. This file is **required** to run tests locally.
+   
+   ⚠️ **IMPORTANT**: 
+   - This file contains sensitive credentials
+   - Never commit this file (it's already in `.gitignore`)
+   - Double-check it's not included in your commits before pushing
+
+```bash
+# Jira Credentials
+ADMIN_USER=your_admin_email@example.com
+ADMIN_PASS=your_admin_password
+MEMBER_USER=your_member_email@example.com
+MEMBER_PASS=your_member_password
 ```
 
 ## 🏃‍♂️ Running Tests
