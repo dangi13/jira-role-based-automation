@@ -9,6 +9,7 @@
     "lint": "npx eslint ."
   },
   "devDependencies": {
+    "@applitools/eyes-playwright": "^1.39.5",
     "@playwright/test": "^1.55.0",
     "@types/node": "^24.3.0",
     "@typescript-eslint/eslint-plugin": "^7.1.0",
