@@ -26,8 +26,8 @@ The framework follows a component-based architecture where UI elements and their
 ## 🛠️ Tech Stack
 
 - 🎭 Playwright - For reliable end-to-end testing
-- �️ Applitools - For visual testing and UI validation
-- �📝 TypeScript - For type-safe code
+- 👁️ Applitools - For visual testing and UI validation
+- 🔷 TypeScript - For type-safe code
 - 🎯 ESLint - Code quality and consistency
 - 🔐 Fixtures - For managing test users and roles
 - 📦 Page Object Model - For maintainable test structure
