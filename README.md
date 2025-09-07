@@ -1,11 +1,4 @@
-# 🎯 Jira Role-Based Acce## 🛠️ Tech Stack
-
-- 🎭 Playwright - For reliable end-to-end testing
-- 👀 Applitools Eyes - For visual testing and UI validation
-- 💻 TypeScript - For type-safe code
-- 🎯 ESLint - Code quality and consistency
-- 🔐 Fixtures - For managing test users and roles
-- 📦 Page Object Model - For maintainable test structureng
+# 🎯 Jira Role-Based Access Testing
 
 This project is an end-to-end automation framework for testing role-based access control in Jira using Playwright with TypeScript. It verifies different user permissions and access levels within the Jira platform.
 
