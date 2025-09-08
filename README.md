@@ -1,4 +1,4 @@
-# 🎯 Jira Role-Based Access Testing
+# 🎯 Jira Role-Ba## 📁 Project Structureing
 
 This project is an end-to-end automation framework for testing role-based access control in Jira using Playwright with TypeScript. It verifies different user permissions and access levels within the Jira platform.
 
@@ -15,7 +15,7 @@ This project is an end-to-end automation framework for testing role-based access
 - ✅ Member user can see the "Add People" option
 - ❌ Member user cannot invite new members
 
-## 🏗️ Architecture
+## ��️ Architecture
 
 The framework follows a component-based architecture where UI elements and their associated actions are organized into reusable components. This approach:
 - ♻️ Promotes code reusability
@@ -84,6 +84,20 @@ npm test                     # Run all tests
 ```bash
 npx playwright test tests/ui-tests/roles.test.ts        # Run role-based access tests
 ```
+
+## 🎬 Test Execution Demo
+
+<video src="media/Playwright+Typescript Role based testing with-applitools.mov" controls>
+  Your browser does not support the video tag.
+</video>
+
+The video above demonstrates:
+- Complete test execution flow
+- Role-based permission validation
+- Real-time test execution in Playwright
+- Applitools visual testing integration
+- How to review visual comparisons in Applitools dashboard
+- Test reporting and results analysis
 
 ## 📁 Project Structure
 
