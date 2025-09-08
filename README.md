@@ -87,9 +87,9 @@ npx playwright test tests/ui-tests/roles.test.ts        # Run role-based access 
 
 ## 🎬 Test Execution Demo
 
-<video src="media/Playwright+Typescript Role based testing with-applitools.mov" controls>
-  Your browser does not support the video tag.
-</video>
+Watch the video below for a complete walkthrough of the Playwright Test Execution flow.
+
+https://vimeo.com/1116666339
 
 The video above demonstrates:
 - Complete test execution flow

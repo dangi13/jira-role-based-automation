@@ -36,9 +36,9 @@ Our performance testing approach includes:
 
 ## 🎥 JMeter Test Execution Demo
 
-<video src="../../media/JMeter Flow.mov" controls>
-  Your browser does not support the video tag.
-</video>
+Watch the video below for a complete walkthrough of the JMeter test flow.
+
+https://vimeo.com/1116666283
 
 
 ## 📋 Test Flow
