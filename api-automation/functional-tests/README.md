@@ -37,7 +37,7 @@ A complete Postman collection is included to help visualize and test the API flo
 
 ### 🎥 Postman Flow Demonstration
 
-Click here to watch the full [Postman Flow Demonstration](../../media/postman-flow.mov).
+Click here to watch the full [Postman Flow Demonstration](../../media/Postman-flow.mov).
 
 The demo above demonstrates:
 - Complete CRUD operations visualization
