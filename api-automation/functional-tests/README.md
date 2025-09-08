@@ -35,9 +35,9 @@ A complete Postman collection is included to help visualize and test the API flo
 
 ### 🎥 Postman Flow Demonstration
 
-<video src="../../media/Postman-flow.mov" controls>
-  Your browser does not support the video tag.
-</video>
+### 🎥 Postman Flow Demonstration
+
+Click here to watch the full [Postman Flow Demonstration](../../media/postman-flow.mov).
 
 The demo above demonstrates:
 - Complete CRUD operations visualization
